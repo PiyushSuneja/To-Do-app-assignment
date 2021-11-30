@@ -1,0 +1,54 @@
+
+.main-page{
+    display: flex;
+    margin-top: 50px;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+#submit_btn{
+    
+    border-radius: 10px;
+    background-color:lightpink;
+}
+#inputdata{
+    border-radius: 10px;
+    
+}
+.delete_btn{
+    color:black;
+    background-color: red;
+    border-radius: 10px;
+    border: none;
+}
+.mainboxfortask{
+
+    margin: 5px;
+    
+}
+
+.edit_btn{
+    color: black;
+    background-color: blue ;
+    border-radius: 10px;
+    border: none;
+}
+.each_task{
+    border: none;
+    
+}
+
+.countvalue{
+    margin-left: 10px;
+}
+
+.second-section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 5px solid lightseagreen;
+    margin-top: 10px;
+    background-color: lightgreen;
+    
+}
